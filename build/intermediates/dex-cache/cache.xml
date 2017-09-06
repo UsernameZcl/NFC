@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\wook_tool\eclipse\work\NFC\libs\guavalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="G:\wook_tool\eclipse\work\NFC\build\intermediates\pre-dexed\debug\guavalib_2127c0705b379d8ad356c9b65f3a6ecef3684bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\wook_tool\eclipse\work\NFC\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="20.0.0"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="G:\wook_tool\eclipse\work\NFC\build\intermediates\pre-dexed\debug\android-support-v4_905b599a4f39bf14e93f9b2a7df11a27b54f7caf.jar" />
+    </item>
+
+</items>
